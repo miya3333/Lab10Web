@@ -3,7 +3,6 @@
 ### Aldi Hermansyah - 312310200 - Ti.23.A2
 
 ### Perubahan sesuai urutan:
-```ada beberapa hal masih dalam perbaikan```
 ## 1. Buat file ```mobil.php``` <br>
    > <img src="file/img/mobil.png" alt="">
 
